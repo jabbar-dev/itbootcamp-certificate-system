@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5649bffb.css",
+    "main.js": "/static/js/main.c4b39e17.js",
+    "static/js/453.7dc3d6b5.chunk.js": "/static/js/453.7dc3d6b5.chunk.js",
+    "static/media/back.jpg": "/static/media/back.3fccf18ed0ea56072f64.jpg",
+    "static/media/RIBBON.png": "/static/media/RIBBON.4ac1bfa97c3d0531542a.png",
+    "static/media/signs.png": "/static/media/signs.301329984c28b2cd42e8.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.5649bffb.css.map": "/static/css/main.5649bffb.css.map",
+    "main.c4b39e17.js.map": "/static/js/main.c4b39e17.js.map",
+    "453.7dc3d6b5.chunk.js.map": "/static/js/453.7dc3d6b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5649bffb.css",
+    "static/js/main.c4b39e17.js"
+  ]
+}
